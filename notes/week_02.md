@@ -13,7 +13,7 @@
 
 Python is a **high-level, interpreted, and general-purpose programming language** that is easy to read and write.
 
-### 🔹 Why Python is popular?
+### Why Python is popular?
 
 * Simple English-like syntax
 * Less code, more work
@@ -28,9 +28,8 @@ Python is a **high-level, interpreted, and general-purpose programming language*
 print("Hello, Python!")
 ```
 
-👉 No semicolons, no complex brackets → very readable.
+*No semicolons, no complex brackets → very readable.*
 
----
 
 ### Variables in Python
 
@@ -44,7 +43,7 @@ marks = 85.5
 
 Python **automatically detects data type**.
 
----
+
 
 ###  Basic Data Types
 
@@ -61,7 +60,7 @@ y = 3.14      # float
 z = "Data"    # string
 ```
 
----
+
 
 ### Conditional Statements
 
@@ -72,7 +71,7 @@ else:
     print("Not eligible")
 ```
 
----
+
 
 ### Loops
 
@@ -167,7 +166,6 @@ print(customer_profile["age"])
 
 ```
 
----
 
 ### **2. Data Structures Comparison Table**
 
