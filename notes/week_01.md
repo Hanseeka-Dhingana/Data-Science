@@ -64,7 +64,8 @@ Inferential statistics, on the other hand, goes one step further. It uses a smal
 
 
 ## Applications of Data Science
-Data Science is actively reshaping major industries. we are explain three clear examples 
+Data Science is actively reshaping major industries. 
+
 ### E-commerce & Entertainment (Recommendation Systems)
 When streaming services suggest a show, they use algorithms to analyze your past viewing history and compare it to millions of other users to predict what will keep you engaged.
 
@@ -74,7 +75,7 @@ Examples:
 - Price optimization
 
 **Entertainment**
-- contennt recommendation 
+- content recommendation 
 - User preference analysis 
 - content creation decisions
 
@@ -167,7 +168,7 @@ A highly accurate mathematical model is useless if the business executives canno
 ## Life Cycle of Data Science 
 It is crucial to understand that this is not a strict, straight line. It is a highly iterative process, meaning a data scientist will frequently jump back and forth between these steps as they discover new information about the data. 
 
-*Here is the detailed, step-by-step breakdown of the lifecycle*
+***Here is the detailed, step-by-step breakdown of the lifecycle***
 ### 1. Business Understanding (Problem Formulation)
 Before writing a single line of code, you must define the exact problem you are trying to solve. Without a clear goal, the analysis will be unfocused.
 
